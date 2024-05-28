@@ -1,6 +1,8 @@
 # Cloth-Recommendation-System
 
 We have chosen a fashion dataset for our system. We've created a clothing recommendation system using data mining and content-based filtering concepts. Customers can input a cloth ID and receive details on the top 5 related clothing items.
+
+
 **Steps :**
 1) Download the ipynb file in your system.
 2) Run on kaggle/any suitable platform.
@@ -38,7 +40,7 @@ we have used in this project is :
   ![Uploading image.png…]()
 
 
-4) Conclusion :
+**4) Conclusion :**
 The above output shows that the result produced by BOW and Weighted
 Wrd2Vec does not differ much.
 To evaluate the performance of this system either we need to have labeled
