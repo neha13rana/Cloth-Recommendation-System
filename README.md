@@ -61,4 +61,8 @@ is smaller than the BOW vector then we can go for weighted wrd2vec, or else with
 BOW.
 
 
+Contributors - 
 
+ - [neha13rana](https://github.com/neha13rana)
+ - [Priya-1543](https://github.com/Priya-1543)
+ - [Kushpurohit23](https://github.com/Kushpurohit23)
