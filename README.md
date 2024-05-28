@@ -34,10 +34,12 @@ we have used in this project is :
 
 **3) Result :**
   Output 1 :
+  
   ![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/fff26be5-37d5-47fb-8215-5c0c0682a811)
 
   Output 2 :
-  ![Uploading image.png…]()
+  
+  ![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/0eaa9ce3-f916-4315-9fb9-a38314f65b68)
 
 
 **4) Conclusion :**
