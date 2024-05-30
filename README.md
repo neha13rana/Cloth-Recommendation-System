@@ -54,9 +54,9 @@ and utility. This qualitative input helps assess the system’s effectiveness.
 groups to compare the performance of the recommendation system against
 alternatives or no recommendations at all. Analyze user engagement metrics
 like click-through rates to measure impact.
-• Implicit Signals Analysis: Utilize implicit feedback cues such as user interactions (e.g., clicks, purchases) to infer user preferences and evaluate how well
+• Implicit Signals Analysis: Utilize implicit feedback cues such as user interactions (e.g., clicks, purchases) to infer user preferences and evaluate how well
 the recommendation system aligns with user behavior.
-To conclude, the choice of the approach depends on Tag size and the computation power available. If the tag size is large such that the weighted wrd2vec vector
+To conclude, the choice of the approach depends on Tag size and the computation power available. If the tag size is large such that the weighted wrd2vec vector
 is smaller than the BOW vector then we can go for weighted wrd2vec, or else with
 BOW.
 
