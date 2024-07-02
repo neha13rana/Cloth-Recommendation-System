@@ -23,13 +23,26 @@ these along with some more features make this dataset a useful source for buildi
 a content-based recommendation system.
 Source link : https://huggingface.co/datasets/ashraq/fashion-product-images-small
 
-**2) Novelty :**
+**2) Data visualization:**
+
+![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/e417b827-bd11-494c-aacc-0dfa7e902386)
+
+![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/cb88895f-f4f9-4fbe-a0bb-8e69c1453fb3)
+
+![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/0d3762f4-f368-431e-9bb4-26bd2af586b6)
+
+![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/ad0a4a72-c369-4794-b2de-bb59fc5816ca)
+
+
+
+
+**3) Novelty :**
 The recommendation systems are a well-liked and extensively employed
 method for giving customers customized recommendations. There are different
 types of recommendation systems algorithms based on data available. The one that
 we have used in this project is :
- 1. Content-Based Filtering Recommendation System
- 2. Weighted Word2vec
+1. [BOW]  (Complexity : O(n^3))
+2. Weighted Word2vec (Complexity : O(n^2))
 
 
 **3) Result :**
