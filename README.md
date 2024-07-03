@@ -25,6 +25,8 @@ these along with some more features make this dataset a useful source for buildi
 a content-based recommendation system.
 Source link : https://huggingface.co/datasets/ashraq/fashion-product-images-small
 
+--- 
+
 **2) Data visualization:**
 
 ![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/e417b827-bd11-494c-aacc-0dfa7e902386)
@@ -35,6 +37,7 @@ Source link : https://huggingface.co/datasets/ashraq/fashion-product-images-smal
 
 ![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/ad0a4a72-c369-4794-b2de-bb59fc5816ca)
 
+---
 
 **3) Novelty :**
 The recommendation systems are a well-liked and extensively employed method for giving customers customized recommendations. There are different types of recommendation systems algorithms based on data available. The one that we have used in this project is :
@@ -42,6 +45,7 @@ The recommendation systems are a well-liked and extensively employed method for 
 **Content-Based Filtering Recommendation System-** 
 It recommends items similar to those a user has liked or interacted with in the past. It analyzes the attributes or features of items and recommends items with similar characteristics. We have compared the results of the recommendation made by using two different approaches to vectorizing the features.
 
+---
 
 **4) Result :**
  ```
@@ -53,6 +57,7 @@ It recommends items similar to those a user has liked or interacted with in the 
   
   ![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/0eaa9ce3-f916-4315-9fb9-a38314f65b68)
 ```
+---
 
 **5) Conclusion :**
 The above output shows that the result produced by BOW and Weighted Wrd2Vec does not differ much.
