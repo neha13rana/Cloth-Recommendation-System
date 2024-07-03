@@ -44,7 +44,7 @@ It recommends items similar to those a user has liked or interacted with in the 
 
 
 **4) Result :**
-  """
+ ```
   Output 1 :
   
   ![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/fff26be5-37d5-47fb-8215-5c0c0682a811)
@@ -52,7 +52,7 @@ It recommends items similar to those a user has liked or interacted with in the 
   Output 2 :
   
   ![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/0eaa9ce3-f916-4315-9fb9-a38314f65b68)
-
+```
 
 **5) Conclusion :**
 The above output shows that the result produced by BOW and Weighted Wrd2Vec does not differ much.
