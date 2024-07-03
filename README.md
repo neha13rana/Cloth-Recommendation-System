@@ -16,7 +16,6 @@ We have developed a cloth recommendation system using content-based filtering. R
 
 ![image](https://github.com/neha13rana/Cloth-Recommendation-System/assets/121093178/4234e9f3-b579-4910-897c-6d835603f7e0)
 
-```
 **1) Dataset Description :**
 We have selected a fashion dataset openly available on hugging face. The
 dataset consists of various features that describe a cloth. The clothes mentioned in
@@ -73,7 +72,7 @@ To evaluate the performance of this system either we need to have labeled data o
 To conclude, the choice of the approach depends on Tag size and the computation power available. If the tag size is large such that the weighted wrd2vec vector
 is smaller than the BOW vector then we can go for weighted wrd2vec, or else with
 BOW.
-```
+
 
 **Contributors -** 
 
